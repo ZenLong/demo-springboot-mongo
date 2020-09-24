@@ -15,7 +15,6 @@ import java.util.List;
  * 用户服务MongoTemplate实现类
  *
  * @author KelvinZ
- * @date 2019-11-12 12:33
  */
 @Service
 public class MongoTemplateUserService implements UserService {

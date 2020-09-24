@@ -9,7 +9,6 @@ import java.util.List;
  * 用户存储类
  *
  * @author KelvinZ
- * @date 2019-11-12 12:50
  */
 public interface UserRepository extends MongoRepository<User, String> {
 

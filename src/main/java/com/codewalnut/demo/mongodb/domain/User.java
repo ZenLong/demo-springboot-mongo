@@ -12,7 +12,6 @@ import java.util.Date;
  * 用户类
  *
  * @author KelvinZ
- * @date 2019-11-12 12:32
  */
 
 @Document(collection = "user")

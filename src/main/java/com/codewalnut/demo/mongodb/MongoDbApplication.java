@@ -18,7 +18,6 @@ import org.springframework.data.mongodb.core.mapping.MongoMappingContext;
  * MongoDb测试
  *
  * @author KelvinZ
- * @date 2019-05-05 12:10
  */
 @SpringBootApplication
 @PropertySource(value = "classpath:application-mongodb.properties", encoding = "utf-8")
